@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>check in_qrc/anti star.png</file>
+    <file>check in_qrc/caar.png</file>
+    <file>check in_qrc/gym2.png</file>
+    <file>check in_qrc/LKIHNL.png</file>
+    <file>check in_qrc/logo 2.png</file>
+    <file>check in_qrc/party.png</file>
+    <file>check in_qrc/SEEE.png</file>
+    <file>check in_qrc/SERV.png</file>
+    <file>check in_qrc/SPA2.png</file>
+    <file>check in_qrc/star.png</file>
+  </qresource>
+</RCC>
